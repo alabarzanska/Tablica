@@ -18,6 +18,7 @@ GR-TN-wieczór
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
    2.Pawel Pokryszka 204013}   
+  3.Alicja Barzańska 204020- cos w stylu projektu A
 
 
 GR-TP-wieczór
